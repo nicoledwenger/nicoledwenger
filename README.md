@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Front End Developer + Designer studying Web Programming and Public Relations at Purdue University. I'm currently the Lead Market Research Analyst for Boiler Communication, Purdue's student-run agency. With backgrounds in customer experience, formal research, and strategic communication, effective user experiences are vital to me. As a senior at Purdue, I'm looking for front end roles upon graduation.
+I'm a **Front End Developer + Designer** studying Web Programming and Public Relations at Purdue University. I'm currently the **Lead Market Research Analyst** for Boiler Communication, Purdue's student-run agency. With backgrounds in customer experience, formal research, and strategic communication, effective user experiences are vital to me. As a senior at Purdue, I'm looking for front end roles upon graduation.
 
 ---
 
