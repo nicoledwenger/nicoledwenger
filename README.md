@@ -1,24 +1,25 @@
 # Hi there 👋
 
-I'm a **Front End Developer + Designer** studying Web Programming and Public Relations at Purdue University. I'm currently the **Lead Market Research Analyst** for Boiler Communication, Purdue's student-run agency. With backgrounds in customer experience, formal research, and strategic communication, effective user experiences are vital to me. As a senior at Purdue, I'm looking for front end roles upon graduation.
+I'm a **Front End Developer + Designer** who graduated *cum laude* in Web Programming and Public Relations from Purdue University. I'm currently seeking full-time opportunities in San Diego, CA. With backgrounds in customer experience, formal research, and strategic communication, effective user experiences are vital to me.
 
 ---
 
 ## Currently working on
 
-:book: [nicoledwenger.github.io](https://github.com/nicoledwenger/GatsbyPortfolio) - an updated portfolio site using GatsbyJS and deployed with Github Pages
+💻: [acnh-name-generator](https://github.com/nicoledwenger/acnh-name-generator) - a name generator for islands in Animal Crossing New Horizons
 </br>
-:pencil2: [hankdevelopment.github.io](https://github.com/nicoledwenger/hankdevelopment.github.io) - a site for my senior capstone project
+📓: [nicoledwenger.github.io](https://github.com/nicoledwenger/GatsbyPortfolio) - an updated portfolio site using GatsbyJS and deployed with Github Pages
+
 
 ## Passionate about
 
-:smile: Intuitive user experiences
+😄: Intuitive user experiences
 </br>
-:briefcase: Inclusive work environments
+💼: Inclusive work environments
 </br>
-:fallen_leaf: Spending time in nature
+🍂: Spending time in nature
 </br>
-:bike: Exercising and yoga
+🚲: Exercising and yoga
 
 ## Find me on
 * [Portfolio](https://nicoledwenger.com/) </br>
